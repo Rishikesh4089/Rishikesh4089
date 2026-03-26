@@ -1,4 +1,4 @@
-#  About Me:
+# About Me:
 #### Passionate about building, optimising, and securing intelligent software solutions. 
 #### Solving complex problems with code, creativity, and coffee!
 #### Exploring and mastering both frontend and backend technologies for versatile development.
@@ -6,7 +6,7 @@
 #### Open to collaborations, discussions, and building something cool together!
 
 
-## Socials:
+# Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/rishikesh.prabhu.12) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Rishikxsh__4089) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rishikesh-prabhu) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Rishikeshzzz) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rishikesh.prabhu.4089@gmail.com) 
 
 # Tech Stack:
