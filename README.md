@@ -1,9 +1,9 @@
 #  About Me:
-## Passionate about building, optimising, and securing intelligent software solutions. 
-## Solving complex problems with code, creativity, and coffee!
-## Exploring and mastering both frontend and backend technologies for versatile development.
-## Turning ideas into intelligent, scalable, and secure software solutions.
-## Open to collaborations, discussions, and building something cool together!
+### Passionate about building, optimising, and securing intelligent software solutions. 
+### Solving complex problems with code, creativity, and coffee!
+### Exploring and mastering both frontend and backend technologies for versatile development.
+### Turning ideas into intelligent, scalable, and secure software solutions.
+### Open to collaborations, discussions, and building something cool together!
 
 
 ## 🌐 Socials:
